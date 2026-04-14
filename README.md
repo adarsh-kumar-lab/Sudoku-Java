@@ -154,19 +154,6 @@ Password correct
 ✔️ UI Responsive (SwingWorker used)
 ✔️ DB Integration Verified
 
-📸 Screenshots
-
-<img width="1919" height="1079" alt="Screenshot 2026-04-15 034605" src="https://github.com/user-attachments/assets/430b1bb5-5eae-4df5-b61e-95634195f7ca" />
-<img width="883" height="840" alt="Screenshot 2026-04-15 034554" src="https://github.com/user-attachments/assets/b3c35193-d113-4cc4-bcc2-5ec4fc63368c" />
-<img width="198" height="33" alt="Screenshot 2026-04-15 034542" src="https://github.com/user-attachments/assets/b1d8da2e-8cfe-474d-a60f-d7203872c434" />
-<img width="486" height="195" alt="Screenshot 2026-04-15 034531" src="https://github.com/user-attachments/assets/074e09b8-fdb6-4222-87ba-7967cc3af800" />
-<img width="235" height="269" alt="Screenshot 2026-04-15 034520" src="https://github.com/user-attachments/assets/4d691413-21ae-4b61-bdf9-3b348bb527e0" />
-<img width="1919" height="1079" alt="Screenshot 2026-04-15 034511" src="https://github.com/user-attachments/assets/3de02239-8382-4fff-9aab-a73b7be9d3e2" />
-<img width="1916" height="1079" alt="Screenshot 2026-04-15 034434" src="https://github.com/user-attachments/assets/79b1dd4a-8618-4b76-b883-1ed1901619ed" />
-<img width="1919" height="1078" alt="Screenshot 2026-04-15 034416" src="https://github.com/user-attachments/assets/2a8768ad-e9c2-428d-9957-9ccca4bcbb04" />
-<img width="1919" height="1079" alt="Screenshot 2026-04-15 034354" src="https://github.com/user-attachments/assets/6bd9126f-4d85-41ed-af13-c0b5cd3b86f3" />
-
-
 🎯 Conclusion
 
 This project demonstrates:
