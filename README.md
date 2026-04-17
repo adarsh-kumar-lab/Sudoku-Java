@@ -14,7 +14,7 @@ A full-featured **Java Swing Sudoku Application** with:
 
 | Name | Reg No |
 |------|--------|
-| Jiban Pradip Sahu | 250301120282 |
+|  Jiban Pradip Sahu | 250301120282 |
 | Adarsh K. Tiwari | 250301120292 |
 | Jagadananda Panda | 250301120283 |
 | Biswajit Gantayat | 250301120264 |
